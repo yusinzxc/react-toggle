@@ -1,0 +1,13 @@
+.home-main{
+  height: 100vh;
+  width: 100%;
+  background: white;
+}
+.change{
+  height: 100vh;
+  width: 100%;
+  background: black;
+}
+.home-main,.change{
+  transition:0.5s;
+}
